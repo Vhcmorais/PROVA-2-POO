@@ -1,0 +1,14 @@
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\bin\Debug\net8.0\Questao 2 Prova 2.exe
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\bin\Debug\net8.0\Questao 2 Prova 2.deps.json
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\bin\Debug\net8.0\Questao 2 Prova 2.runtimeconfig.json
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\bin\Debug\net8.0\Questao 2 Prova 2.dll
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\bin\Debug\net8.0\Questao 2 Prova 2.pdb
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.AssemblyInfoInputs.cache
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.AssemblyInfo.cs
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.csproj.CoreCompileInputs.cache
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.dll
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\refint\Questao 2 Prova 2.dll
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.pdb
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\Questao 2 Prova 2.genruntimeconfig.cache
+C:\Users\Vhcmo\source\repos\Questao 2 Prova 2\Questao 2 Prova 2\obj\Debug\net8.0\ref\Questao 2 Prova 2.dll
